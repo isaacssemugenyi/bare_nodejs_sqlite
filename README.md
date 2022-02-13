@@ -1,6 +1,6 @@
 ### Rest API built with pure nodejs modules
 
-* On main branch, a products.json is used to store products data, based on Brad pure nodejs youtube video
+* On main branch, a products.json is used to store products data, based on [ Traversy Media | Vanilla Node.js REST API | No Framework](https://youtu.be/_1xa8Bsho6A)
 
 * On db branch, an sqlite database is used to store data in product.db inside the data folder
 
