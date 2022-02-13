@@ -1,1 +1,32 @@
-[{"id":"1","name":"Airpod Wireless Bluetooth Headphones","description":"Lorem ipsum testing","price":89.99},{"id":"2","name":"Telephone","description":"Lorem ipsum testing 2","price":100},{"id":"3","name":"Television","description":"Lorem ipsum testing 3","price":45},{"id":"4","name":"Hifi","description":"Lorem ipsum testing 4","price":80.45},{"id":"5","name":"Monitor","description":"Lorem ipsum testing 5","price":150.65}]
+[
+    {
+        "id": "1",
+        "name": "Airpod Wireless Bluetooth Headphones",
+        "description": "Lorem ipsum testing",
+        "price": 89.99
+    },
+    {
+        "id": "2",
+        "name": "Telephone",
+        "description": "Lorem ipsum testing 2",
+        "price": 100
+    },
+    {
+        "id": "3",
+        "name": "Television",
+        "description": "Lorem ipsum testing 3",
+        "price": 45
+    },
+    {
+        "id": "4",
+        "name": "Hifi",
+        "description": "Lorem ipsum testing 4",
+        "price": 80.45
+    },
+    {
+        "id": "5",
+        "name": "Monitor",
+        "description": "Lorem ipsum testing 5",
+        "price": 150.65
+    }
+]
